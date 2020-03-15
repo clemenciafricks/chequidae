@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zaiphahvu.paarthtandon.com/sitemap.xml
